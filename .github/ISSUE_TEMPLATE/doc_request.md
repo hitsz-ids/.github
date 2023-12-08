@@ -1,7 +1,7 @@
 ---
-name: "\U0001F680 Feature request"
-about: Suggest a new feature or a big change
-labels: enhancement
+name: "📕 document request"
+about: Suggest add docs for project
+labels: documentation
 
 ---
 <!--
@@ -18,11 +18,13 @@ Before creating a new feature request please search the issues for relevant feat
 * I would like it if [...] happened when I [...] because [...]
 -->
 
-### Proposed Solution
+### Model for documentation
 
-<!-- Provide a clear and concise description of a way to accomplish what you want. For example:
+<!-- Provide a clear and concise description of the model for documentation. For example:
 
-* Add an option so that when [...]  [...] will happen
+* Add a tutorial on [...]
+* Need to clearify [...]
+* How to use [...]
 -->
 
 ### Additional context
@@ -30,4 +32,5 @@ Before creating a new feature request please search the issues for relevant feat
 <!-- Add any other context or screenshots about the feature request here. You can also include links to examples of other programs that have something similar to your request. For example:
 
 * Another project [...] solved this by [...]
+* I found [...] already in [...] but [...]
 -->
